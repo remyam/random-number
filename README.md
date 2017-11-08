@@ -1,19 +1,22 @@
 # random-number [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
-> assignment for deepintent
 
 ## Installation
 
 ```sh
-$ npm install --save random-number
+$ git clone https://github.com/remyam/random-number
+$ cd random-number
+$ npm install
 ```
 
 ## Usage
 
-```js
-clap dev - start in webpack-dev-server development mode
-
-A webserver will be started on localhost:3000.
+Once the application is generated and npm install is completed, you are ready to try it out.
+```sh
+$ npm start
 ```
+Wait for webpack to be ready and navigate to http://localhost:3000 with your browser.
+
+
 ## License
 
 Apache-2.0 © [remya]()
