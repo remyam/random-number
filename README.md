@@ -10,9 +10,9 @@ $ npm install --save random-number
 ## Usage
 
 ```js
-var randomNumber = require('random-number');
+clap dev - start in webpack-dev-server development mode
 
-randomNumber('Rainbow');
+A webserver will be started on localhost:3000.
 ```
 ## License
 
